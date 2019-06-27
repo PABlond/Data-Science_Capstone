@@ -7,7 +7,8 @@ Asian Divine provides a beautiful spot with a well-rounded offering of Thai, Chi
 
 With over 150 restaurants over the world, Asian Divine would want to enlarge their network with 5 new restaurants in France​
 
-## Problem  
+
+## Problem   
 
 The sample recommender in this project will provide the following requirements:​
 - Asian Divine wants to implement new restaurants in cities with at least half a 50 000 inhabitants .​
